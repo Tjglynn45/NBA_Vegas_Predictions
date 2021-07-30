@@ -27,10 +27,10 @@ performance.
 
 
 ## Modeling Process & Results
-After EDA and feature engineer I decided to start my modeling. I employed a number of different models . I compe
+After EDA and feature engineer I decided to start my modeling. I employed a number of different models in order to achieve the best accuracy score. I compe
 
 ## Conclusion
-
+Our Logistic Regression model performed the best per our buisness question of identifying and explaining the amount of games would be correctly predicted. It scored the highest accuracy score. It was correct 65% of the time. If you were to bet 100 dollars 10 times you would ultimately finish with a profit due to you making the right prediction 7/10 times. 
 
 
 ## Next Steps
